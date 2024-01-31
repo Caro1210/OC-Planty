@@ -216,9 +216,22 @@
     color: #000;
 }
 
+/* Réglages supplémentaires pour le responsive */
 @media (max-width: 768px) {
+    /* Pour le formulaire de commande*/
     .form-container{
         flex-direction: column;
+    }  
+    /* alignement centré du titre*/
+    #form-title {
+        text-align: center;
+    }
+    /* Style pour aligner les images verticalement */
+    .form-images-container {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap; 
+        padding: 5%;
     }
     .column1 {
         width: 100%;
@@ -229,7 +242,9 @@
         width: 100%;
         padding: 5%;
     }
+
     .form-container::before {
         display: none;
     }
+
 }
