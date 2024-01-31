@@ -1,7 +1,9 @@
 /* ajout de CSS pour le header*/
 
 #menu-item-72 a:hover {
-    font-size: 17px;
+        font-size: 13px;
+        font-weight: 700;
+        color: black;
 }
 
 #menu-item-72 {
