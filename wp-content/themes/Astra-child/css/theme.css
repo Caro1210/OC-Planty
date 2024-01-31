@@ -47,6 +47,20 @@
     background-color: #D44056;
 }
 
+/*Style du footer*/
+.mentions-legales-link {
+    text-align: center;
+    font-family: Syne;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 2%;
+}
+
+.mentions-legales-link a{
+    text-align: center;
+    color: #000;
+}
+
 /* Modification des bordures - effet courbé */
 #border_One { 
     border-radius: 0% 0% 50% 50% / 0% 0% 15% 15% ;
