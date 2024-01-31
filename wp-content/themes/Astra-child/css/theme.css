@@ -6,12 +6,24 @@
 
 #menu-item-72 {
     width: 170px;
+    order: 1;
 }
 
 #menu-item-73 {
     width: 130px;
     text-align: center;
     color: black;
+    order: 2;
+}
+
+#menu-item-73 a {
+    text-decoration: none;
+    color: #000;
+
+}
+
+#menu-item-74 {
+    order: 3;
 }
 
 #menu-item-74 a {
