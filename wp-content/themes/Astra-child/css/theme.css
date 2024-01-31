@@ -196,12 +196,10 @@
     color: #fff;
 }
 
-/*ajout de CSS pour le formulaire de la page commander*/
+/*ajout de CSS pour le formulaire de la page contact*/
 #champ2 {
     width: 383px;
     height: 337px;
-    top: 773px;
-    left: 292px;
     border-radius: 7px;
     border: none;
 }
@@ -246,5 +244,5 @@
     .form-container::before {
         display: none;
     }
-
 }
+
