@@ -1,0 +1,205 @@
+/* ajout de CSS pour le header*/
+
+#menu-item-72 a:hover {
+    font-size: 17px;
+}
+
+#menu-item-72 {
+    width: 170px;
+}
+
+#menu-item-73 {
+    width: 130px;
+    text-align: center;
+    color: black;
+}
+
+#menu-item-74 a {
+    background-color: #DC9F96;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: center;
+    color: #fff;
+    width: 236px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#menu-item-74 a:hover {
+    background-color: #D44056;
+}
+
+/* Modification des bordures - effet courbé */
+#border_One { 
+    border-radius: 0% 0% 50% 50% / 0% 0% 15% 15% ;
+    box-shadow: 0 10px 0 #ddd3cb; 
+}
+
+#border_Two {
+    border-radius: 0% 0% 50% 50% / 0% 0% 20% 20% ;
+}
+
+#border_Three {
+    border-radius: 0% 0% 50% 50% / 0% 0% 20% 20% ;
+}
+
+/* Modification du bouton - page d'accueil*/
+#button_one{
+    width: 198px;
+}
+
+#gout {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+#gout2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+/*ajout de CSS pour le formulaire de la page commander*/
+
+.separateur {
+    border: 1px solid #fff; 
+}
+
+/*Style pour les titres*/
+#form-title {
+    font-family: Syne;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+/* Style pour aligner les images horizontalement */
+.form-images-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    gap: 30px;
+}
+
+/* Style pour chaque image */
+.image-container img {
+    max-width: 100%; 
+}
+
+
+/* Style pour chaque image et son conteneur de quantité */
+.image-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+/* Style pour chaque champ de quantité*/
+#value{
+    width: 39px;
+    height: 56px;
+    text-align: center;
+    line-height: 56px;
+    font-size: 16px;
+    font-family: 'inter';
+    color: #000;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    border: none;
+}
+
+
+
+
+.form-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative; 
+}
+
+.column1 {
+    width: 50%;
+    padding-right: 5%;
+}
+
+.column2 {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.form-container::before {
+    content: "";
+    position: absolute;
+    left: 49%; 
+    border-left: 1px solid #FFFFFF;
+    height: 100%;
+    transform: translateX(-49%); 
+}
+
+#form-title2 {
+    font-family: Syne;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    color: #fff;
+}
+
+#champ {
+    width: 100%;
+    height: 71px;
+    border-radius: 7px;
+    border: none;
+}
+
+/*Style du bouton Commander*/
+#commander-section {
+   display: flex;  
+   justify-content: center;
+   margin-top: 40px;
+   margin-bottom: 100px;
+}
+
+.commander-btn {
+    width: 198px;
+    height: 55px;
+    padding: 9px 57px 9px 56px;
+    border-radius: 5px;
+    background: #E0B9B4;
+    font-family: Syne;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+}
+
+/*ajout de CSS pour le formulaire de la page commander*/
+#champ2 {
+    width: 383px;
+    height: 337px;
+    top: 773px;
+    left: 292px;
+    border-radius: 7px;
+    border: none;
+}
+
+#form-title3 {
+    font-family: Syne;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    color: #000;
+}
