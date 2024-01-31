@@ -12,6 +12,7 @@
 #menu-item-73 {
     width: 130px;
     text-align: center;
+    font-family: syne;
     color: black;
     order: 2;
 }
@@ -19,11 +20,15 @@
 #menu-item-73 a {
     text-decoration: none;
     color: #000;
+}
 
+#menu-item-73 a:hover {
+    font-size: 13px;
+    font-weight: 700;
 }
 
 #menu-item-74 {
-    order: 3git;
+    order: 3;
 }
 
 #menu-item-74 a {
