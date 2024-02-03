@@ -157,6 +157,13 @@
     position: relative; 
 }
 
+/* Ajoutez ces styles à votre feuille de style personnalisée */
+
+.wpcf7-form {
+    max-width: 860px;
+    margin: auto;
+}
+
 .column1 {
     width: 50%;
     padding-right: 5%;
