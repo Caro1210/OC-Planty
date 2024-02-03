@@ -1,0 +1,71 @@
+[33mcommit ddc225232c557fe29f6ec99668f38e2dc30a35b1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Sat Feb 3 12:52:45 2024 +0100
+
+    Mise à jour du responsive
+
+[33mcommit 418e97961c9df2efbf202d2997ef46fbab95d3bd[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Sat Feb 3 12:20:34 2024 +0100
+
+    Amélioration du responsive
+
+[33mcommit 303cb627ced6e377075b1ea8621c4fd5481b2864[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Thu Feb 1 00:35:54 2024 +0100
+
+    Retrait flèche retour haut  pour répondre aux egigences de la maquette
+
+[33mcommit 3b9d97e499b4d271bf9098a566a74cd1dad73e8a[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Thu Feb 1 00:29:33 2024 +0100
+
+    Style header modifié pour item-72
+
+[33mcommit 7d37b1f7e32ec03e4594ed79ad0362ad76b30dff[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Thu Feb 1 00:20:12 2024 +0100
+
+    Mise à jour du hook qui apparaissait dans le et reprogrammation du footer
+
+[33mcommit 405901fd498c6ee6a86b752aa83b0d4c9e919ca5[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Wed Jan 31 15:45:42 2024 +0100
+
+    Mise à jour du style du Header
+
+[33mcommit f22b0dda1d48c0a75d3861721e6b735068f070ef[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Wed Jan 31 15:31:38 2024 +0100
+
+    adaptation du responsive pour le formulaire de commande
+
+[33mcommit dec2abe2503ed7eeeeb04dace8e140b26b4c9aec[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Wed Jan 31 15:12:45 2024 +0100
+
+    adaptation du responsive pour le formulaire de commande
+
+[33mcommit be323723391efcc5b1d53c8c6bc83bf08254280c[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Wed Jan 31 14:56:52 2024 +0100
+
+    adaptation du responsive pour le formulaire de commande
+
+[33mcommit 12527e647d51c85791590344fbc4db69979db46f[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Wed Jan 31 14:53:55 2024 +0100
+
+    adaptation du responsive pour le formulaire de commande
+
+[33mcommit dcb377009ca24a5efcefbe0144e734c960eeb224[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Wed Jan 31 14:37:44 2024 +0100
+
+    hook add menu item admin
+
+[33mcommit ef7ed5c1b27a60db79497b56bc9d0966520732b5[m
+Author: Caro1210 <c.delannoy12@gmx.com>
+Date:   Wed Jan 31 14:01:56 2024 +0100
+
+    Projet 6 OC avancées
